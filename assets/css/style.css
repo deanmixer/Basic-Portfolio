@@ -131,6 +131,7 @@ textarea {
 	border-color: #dddddd;
 	margin-top: 8px;
 	width: 100%;
+	font-size: 1em;
 }
 
 input.button {
