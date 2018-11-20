@@ -121,7 +121,7 @@ footer {
 /*Contact page*/
 
 input {
-	width: 100%;
+	width: 99%;
 	height: 30px;
 	margin: 8px 0px 15px 0px;
 	font-size: 1em;
@@ -130,7 +130,7 @@ input {
 textarea {
 	border-color: #dddddd;
 	margin-top: 8px;
-	width: 100%;
+	width: 99%;
 	font-size: 1em;
 }
 
